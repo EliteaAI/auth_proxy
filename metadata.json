@@ -1,0 +1,8 @@
+{
+  "name": "Centry Auth: Proxy",
+  "version": "0.2",
+  "depends_on": [
+    "auth_core"
+  ],
+  "init_after": []
+}
